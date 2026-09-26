@@ -1,4 +1,4 @@
-# ansible-inspec
+# OpenCompliance Platform (OCP)
 
 [![PyPI - Version](https://img.shields.io/pypi/v/ansible-inspec)](https://pypi.org/project/ansible-inspec/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/ansible-inspec)](https://pypi.org/project/ansible-inspec/)
